@@ -1,0 +1,20 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "5ZY86TQJ3H.Rubel.KAMA-Gift-Cards"
+        ],
+        "components": [
+          {
+            "/": "/kama-privacy/gift/*",
+            "?": {
+              "id": "*"
+            },
+            "comment": "KAMA encrypted gift-card share links"
+          }
+        ]
+      }
+    ]
+  }
+}
